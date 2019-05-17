@@ -14,13 +14,14 @@ https://youtu.be/3Km0MQjZc3Y
 - Install necessary Plugins (see below).   
 - Press ""Clone or Download" and download the Project as a .zip file.  
 - Unzip the file.  
+- Copy the Robot Library  `BURG Halle` (**XML and 3DM Files**)which you can find in the folder `Robots Library Burg` to the folder `Documents>Robots`
 - Open the grasshopper definition in Grasshopper and make sure all components have loaded and no error messages are present. If you receive any errors check if all plugins are installed correctly (don't forget to unblock and follow the instructions for the "Robots"-plugin precisely)
 - Set the coordinates of your writing surface
 - Set the IP- address of your robot
 -  Open touch_drawing_to_json_and_gh.pde in Processing and press Play.
 - An interface should appear on which you can sketch with mouse or touch input
 - Write/draw and hit `Go!`
-- The lines will be immediatly sent to grasshopper and from there to the robot.
+- The lines will be immediately sent to grasshopper and from there to the robot.
 
 
 ## Requirements:
