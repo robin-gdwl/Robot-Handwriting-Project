@@ -7,6 +7,7 @@ BURG Halle University of Art and Design
 Uses Grasshopper and Processing to capture drawings via touch input and creates Robot commands to copy the drawing. This was a one-time project and rather hacked together using much more software, plugins and processes than necessary, but it works. Use at your own risk. If you have a problem create an [Issue here](https://github.com/boundlessmaking/Robot-Handwriting-Project/issues) on Github.
 
 ## Demo
+https://youtu.be/3Km0MQjZc3Y
 
 ## How to use
 
