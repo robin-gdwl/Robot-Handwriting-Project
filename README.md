@@ -4,17 +4,22 @@ BURG Halle University of Art and Design
 
 
 # Robot Handwriting
-Uses Grasshopper and Processing to capture drawings via touch input and creates Robot commands to copy the drawing.
+Uses Grasshopper and Processing to capture drawings via touch input and creates Robot commands to copy the drawing. This was a one-time project and rather hacked together using much more software, plugins and processes than necessary, but it works. Use at your own risk. If you have a problem create an [Issue here](https://github.com/boundlessmaking/Robot-Handwriting-Project/issues) on Github.
 
 ## Demo
 
 ## How to use
 
-Install necessary Plugins (see below).   
-Press ""Clone or Download" and download the Project as a .zip file.  
-Unzip the file.  
-Open the grasshopper definition in Grasshopper and make sure all components have loaded and no error messages are present. If you receive any errors check if all plugins are installed correctly (don't forget to unblock and follow the instructions for the "Robots"-plugin precisely)
-Open touch_drawing_to_json_and_gh.pde in Processing and press Play.
+- Install necessary Plugins (see below).   
+- Press ""Clone or Download" and download the Project as a .zip file.  
+- Unzip the file.  
+- Open the grasshopper definition in Grasshopper and make sure all components have loaded and no error messages are present. If you receive any errors check if all plugins are installed correctly (don't forget to unblock and follow the instructions for the "Robots"-plugin precisely)
+- Set the coordinates of your writing surface
+- Set the IP- address of your robot
+-  Open touch_drawing_to_json_and_gh.pde in Processing and press Play.
+- An interface should appear on which you can sketch with mouse or touch input
+- Write/draw and hit `Go!`
+- The lines will be immediatly sent to grasshopper and from there to the robot.
 
 
 ## Requirements:
@@ -38,9 +43,9 @@ Optional:
 You also need the following **Processing libraries**:
 - [**UDP**](http://ubaa.net/shared/processing/udp/)(can be installed directly in Processing by going to `Sketch>import library>Add Library`. Or by Installing from the zip-file)
 
-## Overview
+## Grasshopper Canvas Overview:
 
-![Robot Handwriting overview]()
+![Robot Handwriting overview](https://raw.githubusercontent.com/boundlessmaking/Robot-Handwriting-Project/master/Robot%20Handwriting%20Canvas%2002.png)
 
 
 ## Bugs to fix
