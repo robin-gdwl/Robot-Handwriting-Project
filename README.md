@@ -4,8 +4,6 @@ BURG Halle University of Art and Design
 
 Uses Parts of [robot-drawing](https://github.com/garciadelcastillo/robot-drawing) by [Jose Luis Garcia del Castillo](https://github.com/garciadelcastillo) but utilises Grasshopper and a UR5 Robot instead of Revit and an ABB Robot with Machina. His System is much more simple to install, so check if it suits you better than this one.
 ***
-![test](https://github.com/boundlessmaking/Robot-Handwriting-Project/blob/master/Images/copy01.gif)
-![test](https://github.com/boundlessmaking/Robot-Handwriting-Project/blob/master/Images/copy01.gif)
 
 <img src="/Images/write01.gif" width="40%"> <img src="/Images/copy01.gif" width="40%">
 
