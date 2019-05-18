@@ -11,16 +11,16 @@ Uses Parts of [robot-drawing](https://github.com/garciadelcastillo/robot-drawing
 Uses Grasshopper and Processing to capture drawings via touch input and creates Robot commands to copy the drawing. This was a one-time project and rather hacked together using much more software, plugins and processes than necessary, but it works. Use at your own risk. If you have a problem create an [Issue here](https://github.com/boundlessmaking/Robot-Handwriting-Project/issues) on Github.
 
 
-## Demo
+## Video explanation
 https://youtu.be/3Km0MQjZc3Y
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/3Km0MQjZc3Y/0.jpg)](http://www.youtube.com/watch?v=3Km0MQjZc3Y)
+[![Universal Robot Handwriting Video explanation](http://img.youtube.com/vi/3Km0MQjZc3Y/0.jpg)](http://www.youtube.com/watch?v=3Km0MQjZc3Y)
 
 ## How to use
 
 - Install necessary Plugins (see below).   
 - Press ""Clone or Download" and download the Project as a .zip file.  
 - Unzip the file.  
-- Copy the Robot Library  `BURG Halle` (**XML and 3DM Files**)which you can find in the folder `Robots Library Burg` to the folder `Documents>Robots`
+- Copy the Robot Library  `BURG Halle` (**XML and 3DM Files**)which you can find in the folder `Robots Library Burg` to the folder `Documents>Robots` (same as during the installation of the Robots-plugin)
 - Open the grasshopper definition in Grasshopper and make sure all components have loaded and no error messages are present. If you receive any errors check if all plugins are installed correctly (don't forget to unblock and follow the instructions for the "Robots"-plugin precisely)
 - Set the coordinates of your writing surface
 - Set the IP- address of your robot
