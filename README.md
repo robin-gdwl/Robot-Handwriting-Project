@@ -34,7 +34,7 @@ https://youtu.be/3Km0MQjZc3Y
 ## Requirements:
 **Software**
 
-- Rhino 6 (using Rhino 5 will require some rewiring, use the canvas capture as a guide)
+- Rhino 6 (using Rhino 5 will require rewiring, use the canvas capture as a guide. You will need an earlier version of the [Robots plugin](https://github.com/visose/Robots/releases))
 - Grasshopper 1.0.0007
 - Processing 3.5.3
 
