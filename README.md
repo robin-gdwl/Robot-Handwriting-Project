@@ -2,7 +2,7 @@
 Robot Lab Residency Summer 2019  
 BURG Halle University of Art and Design
 
-Uses Parts of [robot-drawing](https://github.com/garciadelcastillo/robot-drawing) by [Jose Luis Garcia del Castillo](https://github.com/garciadelcastillo) but utilises Grasshopper and a UR5 Robot instead of Revit and an ABB Robot with Machina. His System is much more simple to install, so check if it suits you better than this one. 
+Uses Parts of [robot-drawing](https://github.com/garciadelcastillo/robot-drawing) by [Jose Luis Garcia del Castillo](https://github.com/garciadelcastillo) but utilises Grasshopper and a UR5 Robot instead of Revit and an ABB Robot with Machina. His System is much more simple to install, so check if it suits you better than this one.
 
 
 # Robot Handwriting
@@ -10,6 +10,7 @@ Uses Grasshopper and Processing to capture drawings via touch input and creates 
 
 ## Demo
 https://youtu.be/3Km0MQjZc3Y
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/3Km0MQjZc3Y/0.jpg)](http://www.youtube.com/watch?v=3Km0MQjZc3Y)
 
 ## How to use
 
@@ -20,7 +21,7 @@ https://youtu.be/3Km0MQjZc3Y
 - Open the grasshopper definition in Grasshopper and make sure all components have loaded and no error messages are present. If you receive any errors check if all plugins are installed correctly (don't forget to unblock and follow the instructions for the "Robots"-plugin precisely)
 - Set the coordinates of your writing surface
 - Set the IP- address of your robot
--  Open touch_drawing_to_json_and_gh.pde in Processing and press Play.
+-  Open `touch_drawing_to_json_and_gh.pde` (located in the folder with the same name) in Processing and press `Run`(Play button in the top panel).
 - An interface should appear on which you can sketch with mouse or touch input
 - Write/draw and hit `Go!`
 - The lines will be immediately sent to grasshopper and from there to the robot.
