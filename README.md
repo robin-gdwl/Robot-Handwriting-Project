@@ -6,7 +6,7 @@ Uses Parts of [robot-drawing](https://github.com/garciadelcastillo/robot-drawing
 ***
 <img src="/Images/write01.gif" width="49%">
 <img src="/Images/copy01.gif?raw=true" width="49%">
-
+ 
 # Robot Handwriting
 Uses Grasshopper and Processing to capture drawings via touch input and creates Robot commands to copy the drawing. This was a one-time project and rather hacked together using much more software, plugins and processes than necessary, but it works. Use at your own risk. If you have a problem create an [Issue here](https://github.com/boundlessmaking/Robot-Handwriting-Project/issues) on Github.
 
