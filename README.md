@@ -4,8 +4,7 @@ BURG Halle University of Art and Design
 
 Uses Parts of [robot-drawing](https://github.com/garciadelcastillo/robot-drawing) by [Jose Luis Garcia del Castillo](https://github.com/garciadelcastillo) but utilises Grasshopper and a UR5 Robot instead of Revit and an ABB Robot with Machina. His System is much more simple to install, so check if it suits you better than this one.
 ***
-<img src="/Images/write01.gif" width="40%">
-<img src="/Images/copy01.gif" width="40%">
+<img src="/Images/write01.gif" width="40%"> <img src="/Images/copy01.gif" width="40%">
 
 # Robot Handwriting
 Uses Grasshopper and Processing to capture drawings via touch input and creates Robot commands to copy the drawing. This was a one-time project and rather hacked together using much more software, plugins and processes than necessary, but it works. Use at your own risk. If you have a problem create an [Issue here](https://github.com/boundlessmaking/Robot-Handwriting-Project/issues) on Github.
@@ -13,6 +12,7 @@ Uses Grasshopper and Processing to capture drawings via touch input and creates 
 
 ## Video explanation
 https://youtu.be/3Km0MQjZc3Y
+
 [![Universal Robot Handwriting Video explanation](http://img.youtube.com/vi/3Km0MQjZc3Y/0.jpg)](http://www.youtube.com/watch?v=3Km0MQjZc3Y)
 
 ## How to use
